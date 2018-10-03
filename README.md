@@ -6,3 +6,5 @@ Python build desktop helper
 will cover Eng later
 <br>Update randomly cuz still in high school
 <br>Comment me with ur suggestion
+
+<br>Test in Windows, compatible with Linux and OSX (I mean a few changes)
